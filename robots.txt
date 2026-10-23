@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://flipout97.web.app/sitemap.xml
